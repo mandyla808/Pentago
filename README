@@ -1,0 +1,8 @@
+Class project for CS152 at UChicago (Spring 2019)
+An implementation of the game Pentago, played within the Linux command-line.
+To play the game, first download all files, navigate into the folder in your Linux
+terminal, "make play", then run play with the arguments "-b -s N" where N is the desired
+side-length of the board.
+
+To learn the rules of Pentago, check out this website:
+http://www.creativedeployment.com/clients/mindtwister/strategy-guides/MTUSA_Pentago%20Rules-Strategy%20Guide%202015.pdf
